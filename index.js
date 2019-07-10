@@ -11,10 +11,10 @@ function yourAnimal() {
   return animal
 }
 
-function add2(n,two) {
+function add2(n) {
   const two = 2
-  add2(9,two)
-  return add2()
+  add2(9)
+  return n + 2
   }
 
 var funkyFunction = function() {

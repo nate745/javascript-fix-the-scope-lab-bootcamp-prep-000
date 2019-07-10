@@ -29,6 +29,6 @@ var theFunk = funkyFunction()
 
 function theFunk(){
   return function(){
-    
+
   }
 }
